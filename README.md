@@ -7,3 +7,5 @@ Recuerden que deben de reconstruir los módulos de node con el comando
 ```
 npm install
 ```
+
+Esta es una modificacion del Readme el dia 24/09/19
